@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001466580369",
+    "firebase_url": "https://just-ride-83bc9.firebaseio.com",
+    "project_id": "just-ride-83bc9",
+    "storage_bucket": "just-ride-83bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001466580369:android:74a2c5205fc088b1f61e30",
+        "android_client_info": {
+          "package_name": "com.example.cse.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001466580369-a5adqd76cjitl0ttt3ii9i6kem4d6mic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cse.myapplication",
+            "certificate_hash": "e0b5127d0a659e9dd40da5c7087616092402a4fc"
+          }
+        },
+        {
+          "client_id": "1001466580369-43npio7s9f5gqen6kvrjln9dref42apl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQn9sswW4wzc7HIFNuUUwmrWW9Y1b0WlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001466580369-43npio7s9f5gqen6kvrjln9dref42apl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

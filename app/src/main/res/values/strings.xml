@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Ride</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Strings for onboarding screen-->
+
+    <!--Title-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Select Bike</string>
+    <string name="third_slide_title">Secure Online Payment</string>
+    <string name="fourth_slide_title">Save Money</string>
+
+    <!--discription-->
+    <string name="first_slide_desc">Search Your Location lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum</string>
+    <string name="second_slide_desc">Select Bike lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</string>
+    <string name="third_slide_desc">Secure Online Paymentlorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</string>
+    <string name="fourth_slide_desc">Save Money lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</string>
+
+</resources>
